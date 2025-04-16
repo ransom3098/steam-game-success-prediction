@@ -1,0 +1,49 @@
+
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# PyCharm
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Logs
+*.log
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
